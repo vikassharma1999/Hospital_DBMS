@@ -12,7 +12,7 @@
 ## Description
 ---
 
-This is a Database Management System for a Hospital.
+This is a Database Management System for a Hospital to maintain the records of a hospital.
 
 ---
 
